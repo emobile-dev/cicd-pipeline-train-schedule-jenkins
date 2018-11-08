@@ -15,3 +15,4 @@ You can run the app with:
 Once it is running, you can access it in a browser at [http://localhost:3000](http://localhost:3000)
 
 This change is made to check the relation between jenkins and github
+This is being done by GPS to check the connection
